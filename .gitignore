@@ -1,0 +1,32 @@
+# -------- Python --------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# -------- VS Code --------
+.vscode/
+
+# -------- macOS --------
+.DS_Store
+
+# -------- Large Data Files --------
+data/*.csv
+data/*.json
+data/*.parquet
+
+# -------- Models --------
+models/*.pth
+
+# -------- Results --------
+results/*.json
+
+# -------- Logs --------
+*.log
+
+# -------- HuggingFace cache --------
+.cache/
+huggingface/

@@ -1,0 +1,7 @@
+Per-domain accuracy:
+ArXiv          : 0.7255
+Book           : 0.8027
+C4             : 0.8239
+Github         : 0.7254
+StackExchange  : 0.7701
+Wikipedia_en   : 0.8316
