@@ -13,3 +13,9 @@ This project reproduces the QuRater preference learning algorithm from the QuRat
 
 ```bash
 pip install -r requirements.txt
+
+
+By
+Swastiek Kala 
+Akshit Yadav
+Praneel Kapoor
